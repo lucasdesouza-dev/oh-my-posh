@@ -37,7 +37,7 @@
           "type": "git"
         },
         {
-          "background": "#0095e9",
+          "background": "#de116f",
           "background_templates": [
             "{{ if gt .Code 0 }}#ff0044{{ end }}"
           ],
